@@ -1,0 +1,11 @@
+/*Estilos da pagina*/
+
+#app-left{
+    background: #5fbeff;
+}
+
+#app-right{
+    position: center;    
+    width: 330px;
+    height: 200px;
+}
